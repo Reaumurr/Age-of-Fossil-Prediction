@@ -34,7 +34,7 @@ This dataset offers a variety of attributes valuable for comprehensive analysis.
 - **Modeling**: Implementing machine learning models, including Linear Regression, Ridge Regression, and Lasso Regression.
 - **Model Evaluation**: Using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE) and R² to evaluate model performance.
 
-### Cara Menggunakan
+### How to Use
 1. **Install Dependencies**: Ensure all dependencies like `pandas`, `numpy`, `scikit-learn`, and `matplotlib` are installed.
 
    ```bash
