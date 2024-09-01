@@ -6,7 +6,7 @@ This notebook aims to predict the age of fossils based on various geological fea
 
 ### Features
 
-Source taken from Kaggle.com with Dataset Title `Credit Card Fraud Prediction`
+Source taken from Kaggle.com with Dataset Title `Predict the Age of a Fossil`
 
 * Dataset : [Click Here](https://www.kaggle.com/datasets/stealthtechnologies/predict-the-age-of-a-fossil)
 
