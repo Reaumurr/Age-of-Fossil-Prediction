@@ -1,7 +1,7 @@
 
 # Age Fossil Prediction
 
-### Deskripsi Proyek
+### Project Description
 This notebook aims to predict the age of fossils based on various geological features and related data using machine learning models. The project leverages data analysis techniques and machine learning algorithms to develop an accurate prediction model.
 
 ### Features
