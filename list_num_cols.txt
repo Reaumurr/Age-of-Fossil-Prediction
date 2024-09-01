@@ -1,0 +1,1 @@
+["uranium_lead_ratio", "carbon_14_ratio", "radioactive_decay_series", "stratigraphic_layer_depth"]
